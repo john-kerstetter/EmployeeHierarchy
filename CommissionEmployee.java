@@ -68,7 +68,7 @@ public class CommissionEmployee extends Employee {
     }
 
     // return String representation of CommissionEmployee object
-    // @Override
+    @Override
     public String toString() {
 
         return String.format(
